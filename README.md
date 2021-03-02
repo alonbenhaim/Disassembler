@@ -3,7 +3,7 @@ A disassembler is a computer program that translates machine language into assem
 
 ### Preview
 
-![FLOW CHART SCREENSHOT](/flowchart_preview.png)
+![FLOW CHART SCREENSHOT](/flowchart_preview.PNG)
 
 
 
